@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "244915740349",
+    "firebase_url": "https://prover-b3d00.firebaseio.com",
+    "project_id": "prover-b3d00",
+    "storage_bucket": "prover-b3d00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244915740349:android:4056bea466da64123c61d4",
+        "android_client_info": {
+          "package_name": "com.example.cobaverif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244915740349-rqehv58rlf9r2at8bmb9sb99q60c8i1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cobaverif",
+            "certificate_hash": "ee9f40f474b34e29ff1f05a698abd3192ce7f897"
+          }
+        },
+        {
+          "client_id": "244915740349-s88dhl1p0vd0bpoh9s72cbj4pul0sajb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4OUl2lClLr2ugrJ1AY3M72Q-dfeeu8O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244915740349-s88dhl1p0vd0bpoh9s72cbj4pul0sajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
